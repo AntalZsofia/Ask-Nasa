@@ -1,0 +1,37 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #222;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.picture-explanation-container {
+  display: flex;
+}
+
+#picture {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 450px;
+  max-width: 100%;
+  height: auto;
+  margin-right: 1rem;
+  margin-left: 15rem;
+  
+}
+
+
+
+#explanation {
+  letter-spacing: 0px;
+  line-height: 20px;
+  text-align: justify;
+  width: 500px;
+
+}
